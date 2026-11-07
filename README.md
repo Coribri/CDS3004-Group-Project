@@ -20,10 +20,3 @@ Replace `xxx` with your actual name. Each member should upload their code, figur
 3. Write a clear commit message describing what you completed, such as "Check duplicate records and save cleaning statistics".
 4. Update the work log in your folder's README with the date, relevant files, manual verification methods, and the location of your agent-use history.
 
-## Collaboration Guidelines
-
-- A provides B with cleaned data and field definitions. B and C work together on features and the training workflow. D participates in evaluation design from the start.
-- Use your own GitHub account to commit work you have actually completed. Discuss changes before editing another member's files.
-- Each member should retain their complete agent-use history and document how they verified the outputs. The work log can link to these records.
-- This folder structure and these instructions were created with AI assistance. They do not indicate that any member has completed research tasks.
-- This repository is public. Upload only data and outputs that may be shared publicly. Keep API keys, passwords, and personally identifiable information on your local computer.
