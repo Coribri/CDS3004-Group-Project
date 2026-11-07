@@ -11,7 +11,7 @@ Replace `xxx` with your actual name. Each member should upload their code, figur
 | Member A: xxx | Data collection & cleaning | [Folder A](A_Data_Collection_and_Cleaning/) |
 | Member B: xxx | Exploratory analysis & feature preparation | [Folder B](B_Exploratory_Analysis_and_Feature_Preparation/) |
 | Member C: xxx | Model development & comparison | [Folder C](C_Model_Development_and_Comparison/) |
-| Member D: ZOU Rongbin (Richard) | Evaluation & interpretation of findings | [Folder D](D_Evaluation_and_Interpretation/) |
+| Member D: ZOU Rongbin (Richard) student：4301048| Evaluation & interpretation of findings | [Folder D](D_Evaluation_and_Interpretation/) |
 
 ## How to Upload Your Work
 
