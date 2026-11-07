@@ -2,28 +2,28 @@
 
 Group Project
 
-## A–D 成员分工
+## Team Roles (A–D)
 
-请把姓名栏的 `xxx` 改成实际姓名；各成员进入对应文件夹上传自己的代码、图表和说明。具体研究题目与数据集由小组确认后补充。
+Replace `xxx` with your actual name. Each member should upload their code, figures, and notes to the corresponding folder. The research topic and dataset will be added once the group has confirmed them.
 
-| 成员（Name） | 负责部分 | 文件夹 |
+| Team Member (Name) | Responsibilities | Folder |
 | --- | --- | --- |
-| 成员 A（Name）：xxx | Data collection & cleaning／数据收集与清理 | [A 文件夹](A_Data_Collection_and_Cleaning/) |
-| 成员 B（Name）：xxx | Exploratory analysis & feature preparation／探索分析与特征准备 | [B 文件夹](B_Exploratory_Analysis_and_Feature_Preparation/) |
-| 成员 C（Name）：xxx | Model development & comparison／模型开发与比较 | [C 文件夹](C_Model_Development_and_Comparison/) |
-| 成员 D（Name）：xxx | Evaluation & interpretation of findings／评估与结果解释 | [D 文件夹](D_Evaluation_and_Interpretation/) |
+| Member A (Name): xxx | Data collection & cleaning | [Folder A](A_Data_Collection_and_Cleaning/) |
+| Member B (Name): xxx | Exploratory analysis & feature preparation | [Folder B](B_Exploratory_Analysis_and_Feature_Preparation/) |
+| Member C (Name): xxx | Model development & comparison | [Folder C](C_Model_Development_and_Comparison/) |
+| Member D (Name): xxx | Evaluation & interpretation of findings | [Folder D](D_Evaluation_and_Interpretation/) |
 
-## 怎样放东西
+## How to Upload Your Work
 
-1. 打开自己负责的文件夹，先阅读 README.md，并填写姓名和 GitHub 用户名。
-2. 使用 Add file → Upload files 上传成果，或用 Create new file 新建说明文件。
-3. 每次提交写清具体完成内容，例如“检查重复记录并保存清理统计”。
-4. 在本文件夹 README 的工作记录表中补充日期、文件、人工核验方式及 Agent 历史位置。
+1. Open your assigned folder, read its README.md, and fill in your name and GitHub username.
+2. Use Add file → Upload files to upload your work, or Create new file to add a new document.
+3. Write a clear commit message describing what you completed, such as "Check duplicate records and save cleaning statistics".
+4. Update the work log in your folder's README with the date, relevant files, manual verification methods, and the location of your agent-use history.
 
-## 协作约定
+## Collaboration Guidelines
 
-- A 向 B 交付清理数据与字段说明；B 与 C 协作确定特征和训练流程；D 从项目开始参与评估设计。
-- 每人用自己的账号提交真实完成的工作。修改其他成员的文件前先沟通。
-- 每人保留完整 Agent 使用历史，并说明人工核验过程；表格可链接到这些记录。
-- 本次文件夹与说明结构由 AI 辅助建立，尚未代表任何成员已完成研究任务。
-- 本仓库公开可见：仅上传允许公开的数据和成果；API key、密码及可识别个人的资料保留在本地。
+- A provides B with cleaned data and field definitions. B and C work together on features and the training workflow. D participates in evaluation design from the start.
+- Use your own GitHub account to commit work you have actually completed. Discuss changes before editing another member's files.
+- Each member should retain their complete agent-use history and document how they verified the outputs. The work log can link to these records.
+- This folder structure and these instructions were created with AI assistance. They do not indicate that any member has completed research tasks.
+- This repository is public. Upload only data and outputs that may be shared publicly. Keep API keys, passwords, and personally identifiable information on your local computer.
