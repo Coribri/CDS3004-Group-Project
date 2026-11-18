@@ -4,6 +4,8 @@ Member D: ZOU Rongbin (Richard)
 
 This section compares Part C’s original test results with the majority-class baselines and explains the class errors and study limitations. KNN classified 6 of 10 survey test cases and 13 of 29 UCI higher-education test cases correctly. The respective baselines classified 5 and 11 correctly. In the UCI test set, KNN missed all five cases in each of two GPA bands.
 
+The evaluation also checks four study habits individually in each sample. Attendance had the largest estimated association with GPA band in both samples. The eight adjusted comparisons were inconclusive at the 0.05 threshold. The report and notebook include the cohort-specific counts and methods.
+
 | File | Contents |
 | --- | --- |
 | [Part D report](Part_D_Evaluation_and_Interpretation.docx) | English report section for the group submission |
