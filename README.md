@@ -8,7 +8,7 @@ Replace `xxx` with your actual name. Each member should upload their code, figur
 
 | Team Member (Name) | Responsibilities | Folder |
 | --- | --- | --- |
-| Member A: xxx | Data collection & cleaning | [Folder A](A_Data_Collection_and_Cleaning/) |
+| Member A: SO Kai Yim (Moses) sid：4787199 | Data collection & cleaning | [Folder A](A_Data_Collection_and_Cleaning/) |
 | Member B: Zhau Sam Chun sid：4652667 ([@MyLittleHorny](https://github.com/MyLittleHorny)) | Exploratory analysis & feature preparation | [Folder B](B_Exploratory_Analysis_and_Feature_Preparation/) |
 | Member C: xxx | Model development & comparison | [Folder C](C_Model_Development_and_Comparison/) |
 | Member D: ZOU Rongbin (Richard) sid：4301048| Evaluation & interpretation of findings | [Folder D](D_Evaluation_and_Interpretation/) |
