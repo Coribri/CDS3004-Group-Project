@@ -2,7 +2,7 @@
 
 Member B: Zhau Sam Chun (4652667) · [@MyLittleHorny](https://github.com/MyLittleHorny)
 
-Zhau Sam Chun explored 1,044 Portuguese secondary-school subject records from UCI Student Performance (dataset 320) and prepared features from the public data and the 46 university survey responses. Richard (Member D) uploaded the files on his behalf.
+Zhau Sam Chun explored 1,044 Portuguese secondary-school subject records from UCI Student Performance (dataset 320) and prepared features from the public data and the 46 university survey responses.
 
 | File | Contents |
 | --- | --- |
