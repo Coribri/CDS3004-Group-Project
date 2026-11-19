@@ -1,0 +1,47 @@
+data_source,gpa_numeric,study_ordinal,pass,study_level
+survey,3.75,5,1,Very High
+survey,2.25,5,0,Very High
+survey,2.75,1,0,Low
+survey,3.25,0,1,Rare
+survey,2.25,2,0,Low-Med
+survey,2.75,2,0,Low-Med
+survey,3.25,0,1,Rare
+survey,2.25,0,0,Rare
+survey,3.75,2,1,Low-Med
+survey,3.75,1,1,Low
+survey,2.75,3,0,Medium
+survey,3.25,3,1,Medium
+survey,3.25,2,1,Low-Med
+survey,3.25,2,1,Low-Med
+survey,3.25,4,1,High
+survey,3.25,0,1,Rare
+survey,3.75,4,1,High
+survey,3.25,1,1,Low
+survey,3.25,2,1,Low-Med
+survey,2.75,0,0,Rare
+survey,3.25,1,1,Low
+survey,2.75,1,0,Low
+survey,3.75,1,1,Low
+survey,3.75,1,1,Low
+survey,3.75,2,1,Low-Med
+survey,3.25,0,1,Rare
+survey,3.75,4,1,High
+survey,3.75,2,1,Low-Med
+survey,3.25,2,1,Low-Med
+survey,3.75,1,1,Low
+survey,3.75,4,1,High
+survey,3.75,2,1,Low-Med
+survey,3.75,5,1,Very High
+survey,3.75,3,1,Medium
+survey,3.25,0,1,Rare
+survey,3.25,4,1,High
+survey,3.75,4,1,High
+survey,3.25,5,1,Very High
+survey,3.75,1,1,Low
+survey,3.25,1,1,Low
+survey,3.75,5,1,Very High
+survey,3.25,3,1,Medium
+survey,3.25,0,1,Rare
+survey,3.25,3,1,Medium
+survey,3.25,1,1,Low
+survey,3.25,1,1,Low
